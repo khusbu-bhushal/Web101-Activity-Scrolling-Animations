@@ -9,7 +9,7 @@
 ## Example 2: Anton & Irene appear to personally present information about their work - https://antonandirene.com/
 
  🧠 Learning Objectives:
-  After teh activity, we were able to:
+  After the activity, we were able to:
  Organize information about an animation in an JavaScript object
  Write a function that moves website elements at different rates relative to each other
  Handle browser scroll events
