@@ -1,0 +1,29 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+h2 {
+    position: relative;
+    color: white;
+    font-size: 150px;
+    z-index: 1;
+}
+
+#foliage {
+    z-index: 2;
+}
